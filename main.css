@@ -1,0 +1,104 @@
+* {
+    margin: 5px;
+    padding: 0%;
+}
+/* div { */
+    /* border: thick solid red; */
+/* } */
+/* span { */
+    /* border: solid red; */
+/* } */
+/* h1 { */
+
+/* } */
+/* div#first-item {
+ border: width 20px; ;
+    border-style: solid;
+    border-color: green ;
+    color: red;
+    border: thick solid red;
+    border-left: ;
+    border-radius: ;
+    background-color: ;
+
+}
+     */
+     /*body {
+         background-color: grey;
+     }
+     header {
+         background-color: green;
+         height: 40px;
+     }
+    #container {
+        height: ;
+        border-radius: ;
+        background-color: white ;
+        width: ;
+        margin: ;
+        margin-top: -50px;
+    }
+    */
+   body{
+       background-color: rgb(199, 198, 198);
+   }
+    .box {
+        height: 400px;
+        width: 30%;
+        border: 0;
+        background-color: white;
+        /* box-shadow: 10px;
+         box-shadow: inset 10px 20px 0px 50px;*/
+    } 
+    #box1{
+        width: 100%;
+        height: 40%;
+        background-color: rgb(14, 168, 189);
+        margin: 0px 10px 90px 0px;
+    }
+    #circle {
+        background: white;
+        border-radius: 50%;
+        width: 49%;
+        height: 145px;
+        border: 0px;
+        box-shadow:  0px 1px 2px 1px currentColor;
+        margin: -210px 40px 70px 65px;      
+    }
+    #text{
+        text-align: center;
+        margin: -60px 0 0 0;
+        text-justify: auto;
+    }
+    span{
+        width: 5%;
+        background-color: red;
+    }
+    section{
+        height: 100%;
+        margin: 5 0 0 0;
+        border: 0;
+        display: flex;
+        justify-content: space-evenly;
+        flex-wrap: wrap;
+        margin-top: 10;
+        background-color: rgb(199, 198, 198);
+        align-items: flex-start;
+        /* flex-flow: row row-reverse; */
+    }
+       /*section {
+        height: 90vp;
+        border: thick solid red;
+        display: flex;
+        flex-direction: wrap-reverse;
+        justify-content: center;
+        align-items: center;
+       flex-wrap: wrap;
+        flex-flow: row wrap-reverse;
+        }
+    .library {
+        border: thick solid;
+        height: 50vh;
+        width: 25%;
+    }*/ 
+   
